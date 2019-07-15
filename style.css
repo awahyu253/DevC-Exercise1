@@ -1,0 +1,9 @@
+.container{
+ 	background-color:#f2f2f2; 
+ 	padding:10px;
+ 	margin: 20px 0; 
+}
+div p{
+	font-size: 1.2em;
+	font-weight: bold;
+}
